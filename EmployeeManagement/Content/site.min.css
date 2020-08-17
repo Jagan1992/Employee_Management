@@ -1,0 +1,39 @@
+﻿.spacing {
+    margin-top: 20px;
+}
+
+.popular {
+    font-weight: bold;
+}
+
+.field-validation-error,
+label.error {
+    color: red;
+}
+
+.validation-summary-errors,
+input.error {
+    color: red;
+}
+
+.field-validation-valid {
+    color: red;
+}
+
+.none {
+    display: none;
+}
+
+.dataTables_scrollBody thead tr {
+    visibility: collapse;
+}
+
+.divempDetails{
+    width:700px;
+}
+
+.alert_spacing{
+    margin-left:1100px;
+}
+
+
